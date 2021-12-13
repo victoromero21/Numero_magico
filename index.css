@@ -1,0 +1,6 @@
+.nomostrar{
+    display: none;
+}
+.body{
+    display: -webkit-box;
+}
